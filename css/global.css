@@ -175,11 +175,17 @@ main {
   }
 }
 .footer__container {
+}
+
+.inner-wrapper {
   background-color: var(--dark-grey-blue);
-  display: flex;
   padding-top: 47px;
   padding-bottom: 47px;
+  display: flex;
+  padding-left: 85px;
+  padding-right: 85px;
 }
+
 .container {
 }
 .site-logo {
